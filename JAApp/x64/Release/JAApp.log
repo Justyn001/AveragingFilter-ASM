@@ -1,2 +1,0 @@
-﻿JAApp.obj : error LNK2001: nierozpoznany symbol zewnętrzny ApplyAverageFilter
-D:\Informatyka\JA\proba2\JASol\x64\Release\JAApp.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
